@@ -1,3 +1,3 @@
-This is my again a commit!
+This is my again a commit form feature!
 
 And here we go with commit from feature #2!
