@@ -1,0 +1,11 @@
+[33mcommit d6c71da7872471015201cd1f0ae9783404e0ecef[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Tommy Putra <tommyputra734@gmail.com>
+Date:   Fri May 12 17:50:04 2023 +0700
+
+    Changed test.txt and added second-commit.txt
+
+[33mcommit fae011e36984b39e5185063504b671161ce07c83[m
+Author: Tommy <tommyputra734@gmail.com>
+Date:   Fri May 12 17:36:55 2023 +0700
+
+    added test.txt file
